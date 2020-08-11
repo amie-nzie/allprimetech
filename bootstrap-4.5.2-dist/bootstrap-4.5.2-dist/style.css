@@ -11,8 +11,9 @@ body{
     max-width: 980px;
     width: 90%;
     margin-top: 2.25rem;
-    height: 100%;
-    
+}
+.container-flex{
+    background-color: brown;
 }
 .col-bg{
     text-align: center;
@@ -22,7 +23,7 @@ h1{
    color: rgb(14, 47, 194);
    padding-top: 2em;
    padding-bottom: 2em;
-   text-align: justify;
+   text-align: center;
 }
 .email{
     font-size: 18px;
